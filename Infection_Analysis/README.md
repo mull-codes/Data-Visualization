@@ -1,4 +1,4 @@
-# Corona virus infection analysis
+# Virus infection analysis
 
 An attempt to see how far an infection can go, in this coronavirus.
 
