@@ -4,12 +4,13 @@ An attempt to see how far an infection can go, in this coronavirus.
 
 ## Installation
 
-1. Visit [Download Processing](https://processing.org/download/) to download processing and install it.
-2. Extract processing and open the .exe
-3. Clone this project and create your own branch
+1. Clone this project and create your own branch
+
+2. Visit [Download Processing](https://processing.org/download/) to download processing and install it.
+3. Extract processing and open the .exe
+4. Click File -> Open and open Infection_Analysis.pde
 
 Fell free to modify or add.
-
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
