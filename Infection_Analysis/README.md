@@ -12,7 +12,7 @@ An attempt to see how far an infection can go, in this coronavirus.
 
 Feel free to modify or add.
 
-<iframe src="https://player.vimeo.com/video/400671898?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=54371" width="400" height="300" frameborder="0" allow="autoplay; fullscreen" allowfullscreen title="infection_analysis_video"></iframe>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://vimeo.com/400671898)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
