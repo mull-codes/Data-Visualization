@@ -12,7 +12,8 @@ An attempt to see how far an infection can go, in this coronavirus.
 
 Feel free to modify or add.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://vimeo.com/400671898)
+
+[![Watch the video](https://imgur.com/a/TRrRL5J)](https://vimeo.com/400671898)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
